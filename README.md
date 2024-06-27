@@ -1,16 +1,34 @@
-# fashion_app
+# Fluxstore Shopping App
 
-A new Flutter project.
+Fluxstore is a modern shopping application built using Flutter. It offers a sleek and user-friendly interface for browsing and purchasing various products. The app includes features such as category browsing, product search, shopping cart management, and user account management.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Splash Screen:** Welcome screen with the app logo and a brief introduction.
+- **Home Screen:** Displays banners, categories, and featured products.
+- **Search Screen:** 
+- **Cart Screen:** 
+- **Account Screen:** 
+
+## Screenshots
+
+![Splash Screen](assets/screenshots/splash_screen.png)
+![Home Screen](assets/screenshots/home_screen.png)
+
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/fluxstore.git
+   cd fluxstore
